@@ -1,5 +1,5 @@
 # MAPD-mod-B-project
-### MAPD-B distributed processing exam default projects
+### MAPD-B distributed processing 
 
 Analysis of Covid-19 papers
 
